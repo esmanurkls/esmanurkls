@@ -16,15 +16,19 @@ Kocaeli Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim. Gerç
 
 ### ⭐ Öne Çıkan Proje — Green Construction
 
-<p align="center"><img src="assets/girl-dev-animated.svg" alt="Bilgisayar başında çalışan piksel-art kız — animasyonlu" width="580" /></p>
+**🌱 Green Construction** · **Climathon (UP School × Siemens)** · [🔗 Canlı demo](https://green-construction-eight.vercel.app)
 
-**🌱 Green Construction** · **Climathon (UP School × Siemens)**
+TS 825:2024 standardına göre, belirli bir bütçe içinde en uygun **yalıtım ve pencere paketini** bulan karar destek aracı.
 
-TS 825:2024 standardını referans alarak belirli bir bütçe içinde en uygun **yalıtım ve pencere paketini** değerlendirmeyi amaçlayan karar destek aracı.
+- TS 825'in aylık hesap yöntemini kodlayan Python hesap motoru — standardın çözümlü örnekleriyle doğrulanan 431 test
+- Araç çağırma ve sayı denetimiyle rakam uydurmasını engelleyen yapay zekâ asistanı (Gemini, yedek: Groq)
+- 81 ili iklim bölgesine göre gösteren Türkiye haritası, şehre özel öneriler ve müteahhit için tek sayfalık rapor
 
 🏆 **144 proje arasından ilk 20** · 👩‍💻 **Tek kişilik ekip**
 
-<sub>Kaynak kodu özel depoda tutuluyor. Canlı demo bağlantısı henüz eklenmedi.</sub>
+`Python` `FastAPI` `Gemini API` `Groq` `Vercel`
+
+<sub>Kaynak kodu özel depoda tutuluyor; talep üzerine demo yapılabilir.</sub>
 
 ### 🚀 Diğer çalışmalar
 - **TUSAŞ LIFT UP — Bitirme projesi (devam ediyor):** Ekip olarak satış sonrası ürünlerde konfigürasyon takibi ve yapay zekâ destekli arıza karar mekanizması geliştiriyoruz.
@@ -33,9 +37,9 @@ TS 825:2024 standardını referans alarak belirli bir bütçe içinde en uygun *
 ### 💻 Seçili projeler
 | Proje | Çözdüğü problem | Teknolojiler | Durum |
 |---|---|---|---|
-| [WiFi Pulse](https://github.com/esmanurkls/wifi-pulse) | Yurt internetinin hızını ve gecikmesini ölçer, katları karşılaştırır, kesinti bildirimi sunar | Next.js, TypeScript, Supabase, PostgreSQL, Recharts | Kod açık; canlı sürüm doğrulanmadı |
-| [Görev Yönetim Sistemi](https://github.com/esmanurkls/Gorev-Yonetim-Sistemi) | JWT girişi, görev öncelikleri, son tarihler, filtreleme ve istatistikler | Django REST, React, PostgreSQL / SQLite, Chart.js | Kod açık; canlı sürüm doğrulanmadı |
-| [Team AI Workflow](https://github.com/esmanurkls/team-ai-workflow) | Yapay zekâ destekli ekip geliştirmesinde planlama, inceleme, doğrulama ve devir süreci | Node.js, JavaScript, Markdown | Açık iş akışı şablonu |
+| [WiFi Pulse](https://github.com/esmanurkls/wifi-pulse) | Yurt internetinin hızını ve gecikmesini ölçer, katları karşılaştırır, kesinti bildirimi sunar | Next.js, TypeScript, Supabase, PostgreSQL, Recharts | 🟢 [Canlı](https://wifi-pulse.vercel.app) · kod açık |
+| [Görev Yönetim Sistemi](https://github.com/esmanurkls/Gorev-Yonetim-Sistemi) | JWT girişi, görev öncelikleri, son tarihler, filtreleme ve istatistikler | Django REST, React, PostgreSQL / SQLite, Chart.js | Kod açık |
+| [Image Repository](https://github.com/esmanurkls/Image-Repository) | Görselleri object storage'da, metadata'yı veritabanında tutan çok servisli uygulama; kalıcı volume'lar | Django, PostgreSQL, MinIO, Docker Compose | Kod açık |
 
 ### 🧩 Deneyim
 - **POSCO ASSAN TST — Bilgi İşlem stajı:** QR tabanlı İSG bildirimi ve vardiya planlama süreçleri; C#, ASP.NET Web Forms, SQL Server, DevExpress.
@@ -46,10 +50,9 @@ TS 825:2024 standardını referans alarak belirli bir bütçe içinde en uygun *
 - **DevFest Kocaeli 2025:** Tasarım ekibi ve konuşmacı asistanlığı.
 
 ### 🛠️ Teknolojiler
-**Kullandıklarım:** C#, ASP.NET Web Forms, SQL Server, DevExpress, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter, PostgreSQL, Supabase, Git.
+**Kullandıklarım:** C#, ASP.NET Web Forms, SQL Server, DevExpress, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, PostgreSQL, Supabase, MinIO, Git.
 
 **Derinleştirdiklerim:** ASP.NET Core, Docker, backend mimarisi, uygulamalı makine öğrenmesi.
-
 
 ---
 
@@ -61,15 +64,19 @@ I'm a final-year Software Engineering student at Kocaeli University. I enjoy tur
 
 ### ⭐ Featured Project — Green Construction
 
-<p align="center"><img src="assets/girl-dev-animated.svg" alt="Animated pixel-art girl coding at a desk" width="580" /></p>
+**🌱 Green Construction** · **Climathon (UP School × Siemens)** · [🔗 Live demo](https://green-construction-eight.vercel.app)
 
-**🌱 Green Construction** · **Climathon (UP School × Siemens)**
+A decision-support tool that finds the best **insulation and window package** within a given budget, based on the Turkish thermal insulation standard **TS 825:2024**.
 
-A decision-support tool informed by **TS 825:2024**, designed to evaluate insulation and window packages within a specified budget.
+- Python calculation engine implementing the TS 825 monthly method — 431 tests validated against the standard's worked examples
+- AI assistant (Gemini, Groq as fallback) that uses tool calls and number checks so it never invents figures
+- Climate-zone map of all 81 provinces, city-specific recommendations and a one-page report for contractors
 
 🏆 **Top 20 out of 144 projects** · 👩‍💻 **Solo project**
 
-<sub>Source code is private. A live demo link has not been added yet.</sub>
+`Python` `FastAPI` `Gemini API` `Groq` `Vercel`
+
+<sub>Source code is private; a demo is available on request.</sub>
 
 ### 🚀 Other work
 - **TUSAŞ LIFT UP — Capstone (ongoing):** As a team, working on product configuration tracking and AI-assisted fault decision support for after-sales processes.
@@ -78,9 +85,9 @@ A decision-support tool informed by **TS 825:2024**, designed to evaluate insula
 ### 💻 Selected projects
 | Project | Problem & solution | Stack | Status |
 |---|---|---|---|
-| [WiFi Pulse](https://github.com/esmanurkls/wifi-pulse) | Community-sourced dorm Wi-Fi speed and latency tests, floor comparisons and outage reports | Next.js, TypeScript, Supabase, PostgreSQL, Recharts | Public code; deployment unverified |
-| [Task Management System](https://github.com/esmanurkls/Gorev-Yonetim-Sistemi) | JWT-based login, task priorities, deadlines, filtering and statistics dashboard | Django REST, React, PostgreSQL / SQLite, Chart.js | Public code; deployment unverified |
-| [Team AI Workflow](https://github.com/esmanurkls/team-ai-workflow) | Repeatable planning, code review, verification and handoff for AI-assisted team development | Node.js, JavaScript, Markdown | Public workflow template |
+| [WiFi Pulse](https://github.com/esmanurkls/wifi-pulse) | Community-sourced dorm Wi-Fi speed and latency tests, floor comparisons and outage reports | Next.js, TypeScript, Supabase, PostgreSQL, Recharts | 🟢 [Live](https://wifi-pulse.vercel.app) · public code |
+| [Task Management System](https://github.com/esmanurkls/Gorev-Yonetim-Sistemi) | JWT-based login, task priorities, deadlines, filtering and statistics dashboard | Django REST, React, PostgreSQL / SQLite, Chart.js | Public code |
+| [Image Repository](https://github.com/esmanurkls/Image-Repository) | Multi-service app storing images in object storage and metadata in a database, with persistent volumes | Django, PostgreSQL, MinIO, Docker Compose | Public code |
 
 ### 🧩 Experience
 - **POSCO ASSAN TST — IT intern:** Internal application workflows including QR-based occupational safety reporting and shift planning; C#, ASP.NET Web Forms, SQL Server, DevExpress.
@@ -91,14 +98,13 @@ A decision-support tool informed by **TS 825:2024**, designed to evaluate insula
 - **DevFest Kocaeli 2025:** Design team and speaker assistance.
 
 ### 🛠️ Technologies
-**Used in projects or internships:** C#, ASP.NET Web Forms, SQL Server, DevExpress, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter, PostgreSQL, Supabase, Git.
+**Used in projects or internships:** C#, ASP.NET Web Forms, SQL Server, DevExpress, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, PostgreSQL, Supabase, MinIO, Git.
 
 **Currently deepening:** ASP.NET Core, Docker, backend architecture, applied machine learning.
 
 ---
 
-
----
+<p align="center"><img src="assets/girl-dev-animated.svg" alt="Animated pixel-art girl coding at a desk" width="480" /></p>
 
 <div align="center">
 <h3>🎮 Bug Runner</h3>
