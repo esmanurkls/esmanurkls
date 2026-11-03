@@ -1,16 +1,10 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" width="30" height="30" alt="Developer" /> I'm Esmanur Keleşoğlu</h1>
+<div align="center">
+  <img src="assets/hero.svg" alt="Esmanur Keleşoğlu — developer banner" width="100%" />
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Pixel art developer working at a desk" width="100%" />
-</p>
+  **Software Engineering Student · Backend · Data · AI**
 
-<p align="center">
-  <strong>Software Engineering Student · Backend · Data · AI</strong>
-</p>
-<p align="center">
-  <a href="#english">🇬🇧 English</a> · <a href="#türkçe">🇹🇷 Türkçe</a> · <a href="https://www.linkedin.com/in/esmanur-kelesoglu/">LinkedIn</a>
-</p>
-
+  [🇬🇧 English](#english) · [🇹🇷 Türkçe](#türkçe) · [LinkedIn](https://www.linkedin.com/in/esmanur-kelesoglu/)
+</div>
 
 ---
 
