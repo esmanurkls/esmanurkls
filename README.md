@@ -14,9 +14,20 @@
 ### Merhaba, ben Esmanur 👋
 Kocaeli Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim. Gerçek problemleri çalışan uygulamalara dönüştürmeyi, özellikle backend, veri ve kullanıcı deneyimi alanlarında üretmeyi seviyorum.
 
-### 🚀 Öne çıkan çalışmalar
+### ⭐ Öne Çıkan Proje — Green Construction
+
+<p align="center"><img src="assets/girl-dev-animated.svg" alt="Bilgisayar başında çalışan piksel-art kız — animasyonlu" width="580" /></p>
+
+**🌱 Green Construction** · **Climathon (UP School × Siemens)**
+
+TS 825:2024 standardını referans alarak belirli bir bütçe içinde en uygun **yalıtım ve pencere paketini** değerlendirmeyi amaçlayan karar destek aracı.
+
+🏆 **144 proje arasından ilk 20** · 👩‍💻 **Tek kişilik ekip**
+
+<sub>Kaynak kodu özel depoda tutuluyor. Canlı demo bağlantısı henüz eklenmedi.</sub>
+
+### 🚀 Diğer çalışmalar
 - **TUSAŞ LIFT UP — Bitirme projesi (devam ediyor):** Ekip olarak satış sonrası ürünlerde konfigürasyon takibi ve yapay zekâ destekli arıza karar mekanizması geliştiriyoruz.
-- **Green Construction — Climathon:** TS 825'i referans alarak bütçe içindeki yalıtım ve pencere seçeneklerini değerlendiren karar destek aracını tek başıma geliştirdim. **144 proje arasından ilk 20.** (Özel depo.)
 - **Dijital Gebelik Takibi — TÜBİTAK 2209-A:** Ekip olarak gebelik takibini destekleyen mobil sağlık araştırma projesi.
 
 ### 💻 Seçili projeler
@@ -48,9 +59,20 @@ Kocaeli Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim. Gerç
 ### Hey, I'm Esmanur 👋
 I'm a final-year Software Engineering student at Kocaeli University. I enjoy turning real-world problems into practical applications, especially where backend systems, data and user experience meet.
 
-### 🚀 Featured work
+### ⭐ Featured Project — Green Construction
+
+<p align="center"><img src="assets/girl-dev-animated.svg" alt="Animated pixel-art girl coding at a desk" width="580" /></p>
+
+**🌱 Green Construction** · **Climathon (UP School × Siemens)**
+
+A decision-support tool informed by **TS 825:2024**, designed to evaluate insulation and window packages within a specified budget.
+
+🏆 **Top 20 out of 144 projects** · 👩‍💻 **Solo project**
+
+<sub>Source code is private. A live demo link has not been added yet.</sub>
+
+### 🚀 Other work
 - **TUSAŞ LIFT UP — Capstone (ongoing):** As a team, working on product configuration tracking and AI-assisted fault decision support for after-sales processes.
-- **Green Construction — Climathon:** Independently built a TS 825-informed decision-support tool to find insulation and window combinations within a budget. **Top 20 of 144 projects.** (Private repository.)
 - **Digital Pregnancy Tracking — TÜBİTAK 2209-A:** A collaborative mobile-health research project supporting pregnancy follow-up.
 
 ### 💻 Selected projects
