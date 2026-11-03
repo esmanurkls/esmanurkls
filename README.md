@@ -32,7 +32,7 @@ TS 825:2024 standardına göre, belirli bir bütçe içinde en uygun **yalıtım
 
 ### 🚀 Diğer çalışmalar
 - **TUSAŞ LIFT UP — Bitirme projesi (devam ediyor):** Ekip olarak satış sonrası ürünlerde konfigürasyon takibi ve yapay zekâ destekli arıza karar mekanizması geliştiriyoruz.
-- **Dijital Gebelik Takibi — TÜBİTAK 2209-A:** Ekip olarak gebelik takibini destekleyen mobil sağlık araştırma projesi.
+- **Dijital Gebelik Takibi — TÜBİTAK 2209-A:** Ekip olarak geliştirdiğimiz, gebe bireyler için çok fonksiyonlu mobil uygulama. Anne, partner, doktor ve yönetici rolleri; sağlık ve vital takibi, ortak takvim, topluluk forumu, gerçek zamanlı acil durum bildirimi ve canlı konum paylaşımı.<br>`Flutter` `TypeScript` `Express.js` `PostgreSQL` `Prisma` `Socket.io` `Redis`
 
 ### 💻 Seçili projeler
 | Proje | Çözdüğü problem | Teknolojiler | Durum |
@@ -84,7 +84,7 @@ A decision-support tool that finds the best **insulation and window package** wi
 
 ### 🚀 Other work
 - **TUSAŞ LIFT UP — Capstone (ongoing):** As a team, working on product configuration tracking and AI-assisted fault decision support for after-sales processes.
-- **Digital Pregnancy Tracking — TÜBİTAK 2209-A:** A collaborative mobile-health research project supporting pregnancy follow-up.
+- **Digital Pregnancy Tracking — TÜBİTAK 2209-A:** A multi-functional mobile app for pregnant women, built as a team. Mother, partner, doctor and admin roles; health and vitals tracking, a shared calendar, a community forum, real-time emergency alerts and live location sharing.<br>`Flutter` `TypeScript` `Express.js` `PostgreSQL` `Prisma` `Socket.io` `Redis`
 
 ### 💻 Selected projects
 | Project | Problem & solution | Stack | Status |
