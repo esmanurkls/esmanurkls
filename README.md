@@ -49,10 +49,14 @@ TS 825:2024 standardına göre, belirli bir bütçe içinde en uygun **yalıtım
 - **KOÜ Yazılım Kulübü:** Sponsorluk çalışmaları ve Base41 hackathon planlaması.
 - **DevFest Kocaeli 2025:** Tasarım ekibi ve konuşmacı asistanlığı.
 
-### 🛠️ Teknolojiler
-**Kullandıklarım:** C#, ASP.NET Web Forms, SQL Server, DevExpress, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, PostgreSQL, Supabase, MinIO, Git.
+### 🛠️ Bildiğim teknolojiler
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,fastapi,js,ts,react,nextjs,html,css,postgres,supabase,git,github,vercel&perline=8" alt="C#, .NET, Python, Django, FastAPI, JavaScript, TypeScript, React, Next.js, HTML, CSS, PostgreSQL, Supabase, Git, GitHub, Vercel" />
+</p>
 
-**Derinleştirdiklerim:** ASP.NET Core, Docker, backend mimarisi, uygulamalı makine öğrenmesi.
+Ayrıca: SQL Server, ASP.NET Web Forms, DevExpress, MinIO.
+
+**Derinleştirdiğim alanlar:** Yapay zekâ uygulamaları, veri, backend mimarisi (ASP.NET Core, Docker) ve ürün yönetimi.
 
 ---
 
@@ -97,17 +101,15 @@ A decision-support tool that finds the best **insulation and window package** wi
 - **KOÜ Software Club:** Sponsorship activities and Base41 hackathon planning.
 - **DevFest Kocaeli 2025:** Design team and speaker assistance.
 
-### 🛠️ Technologies
-**Used in projects or internships:** C#, ASP.NET Web Forms, SQL Server, DevExpress, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, PostgreSQL, Supabase, MinIO, Git.
+### 🛠️ Technologies I know
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,fastapi,js,ts,react,nextjs,html,css,postgres,supabase,git,github,vercel&perline=8" alt="C#, .NET, Python, Django, FastAPI, JavaScript, TypeScript, React, Next.js, HTML, CSS, PostgreSQL, Supabase, Git, GitHub, Vercel" />
+</p>
 
-**Currently deepening:** ASP.NET Core, Docker, backend architecture, applied machine learning.
+Also: SQL Server, ASP.NET Web Forms, DevExpress, MinIO.
+
+**Currently deepening:** AI applications, data, backend architecture (ASP.NET Core, Docker) and product management.
 
 ---
 
 <p align="center"><img src="assets/girl-dev-animated.svg" alt="Animated pixel-art girl coding at a desk" width="480" /></p>
-
-<div align="center">
-<h3>🎮 Bug Runner</h3>
-<img src="assets/bug-runner.svg" alt="Bug Runner concept" width="100%" />
-<sub>Visual concept only, not yet playable. / Şimdilik görsel konsept, henüz oynanabilir değil.</sub>
-</div>
