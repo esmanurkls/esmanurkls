@@ -3,7 +3,7 @@
 
   **Yazılım Mühendisliği Öğrencisi · Backend · Veri · Yapay Zekâ**
 
-  [🇹🇷 Türkçe](#türkçe) · [🇬🇧 English](#english) · [LinkedIn](https://www.linkedin.com/in/esmanur-kelesoglu/)
+  [🇹🇷 Türkçe](#türkçe) · [🇬🇧 English](#english) · [LinkedIn](https://www.linkedin.com/in/esmanur-kelesoglu/) · [📧 esmanurkelesoglu7@gmail.com](mailto:esmanurkelesoglu7@gmail.com)
 </div>
 
 ---
