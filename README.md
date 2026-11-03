@@ -1,11 +1,16 @@
-<div align="center">
-<img src="assets/hero.svg" alt="Esmanur Keleşoğlu" width="100%" />
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Developer working at a desk — animated" width="52%" />
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" width="30" height="30" alt="Developer" /> I'm Esmanur Keleşoğlu</h1>
 
-**Software Engineering · Backend & Data · AI-assisted Development**
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Pixel art developer working at a desk" width="100%" />
+</p>
 
-[🇬🇧 English](#english) · [🇹🇷 Türkçe](#türkçe) · [LinkedIn](https://www.linkedin.com/in/esmanur-kelesoglu/)
-</div>
+<p align="center">
+  <strong>Software Engineering Student · Backend · Data · AI</strong>
+</p>
+<p align="center">
+  <a href="#english">🇬🇧 English</a> · <a href="#türkçe">🇹🇷 Türkçe</a> · <a href="https://www.linkedin.com/in/esmanur-kelesoglu/">LinkedIn</a>
+</p>
+
 
 ---
 
@@ -15,10 +20,10 @@
 ### Hey, I'm Esmanur 👋
 I'm a final-year Software Engineering student at Kocaeli University. I enjoy turning real-world problems into practical applications, especially where backend systems, data and user experience meet.
 
-### 🚀 Currently working on
-- **TUSAŞ LIFT UP — Capstone (ongoing):** With a teammate, developing product configuration tracking and AI-assisted fault decision support for after-sales processes.
+### 🚀 Featured work
+- **TUSAŞ LIFT UP — Capstone (ongoing):** With my teammate Meryem Güldüren, working on product configuration tracking and AI-assisted fault decision support for after-sales processes.
 - **Green Construction — Climathon:** Independently built a TS 825-informed decision-support tool to find insulation and window combinations within a budget. **Top 20 of 144 projects.** (Private repository.)
-- **Digital Pregnancy Tracking — TÜBİTAK 2209-A:** Collaborative mobile-health research project supporting pregnancy follow-up.
+- **Digital Pregnancy Tracking — TÜBİTAK 2209-A:** Developed with Elif Altun as a collaborative mobile-health research project supporting pregnancy follow-up.
 
 ### 💻 Selected projects
 | Project | Problem & solution | Stack | Status |
@@ -31,8 +36,12 @@ I'm a final-year Software Engineering student at Kocaeli University. I enjoy tur
 - **POSCO ASSAN TST — IT intern:** Internal application workflows including QR-based occupational safety reporting and shift planning; C#, ASP.NET Web Forms, SQL Server, DevExpress.
 - **SET Yazılım — Software intern:** Enterprise web interfaces and SQL Server data operations.
 
+### 🤝 Community
+- **KOÜ Software Club:** Sponsorship activities and Base41 hackathon planning.
+- **DevFest Kocaeli 2025:** Design team and speaker assistance.
+
 ### 🛠️ Technologies
-**Used in projects or internships:** C#, .NET / ASP.NET Web Forms, SQL Server, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter, PostgreSQL, Supabase, Git.
+**Used in projects or internships:** C#, ASP.NET Web Forms, SQL Server, DevExpress, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter, PostgreSQL, Supabase, Git.
 
 **Currently deepening:** ASP.NET Core, Docker, backend architecture, applied machine learning.
 
@@ -44,10 +53,10 @@ I'm a final-year Software Engineering student at Kocaeli University. I enjoy tur
 ### Merhaba, ben Esmanur 👋
 Kocaeli Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim. Gerçek problemleri çalışan uygulamalara dönüştürmeyi, özellikle backend, veri ve kullanıcı deneyimi alanlarında üretmeyi seviyorum.
 
-### 🚀 Şu an üzerinde çalıştıklarım
-- **TUSAŞ LIFT UP — Bitirme projesi (devam ediyor):** Ekip arkadaşımla satış sonrası ürünlerde konfigürasyon takibi ve yapay zekâ destekli arıza karar mekanizması geliştiriyoruz.
+### 🚀 Öne çıkan çalışmalar
+- **TUSAŞ LIFT UP — Bitirme projesi (devam ediyor):** Meryem Güldüren ile birlikte satış sonrası ürünlerde konfigürasyon takibi ve yapay zekâ destekli arıza karar mekanizması geliştiriyoruz.
 - **Green Construction — Climathon:** TS 825'i referans alarak bütçe içindeki yalıtım ve pencere seçeneklerini değerlendiren karar destek aracını tek başıma geliştirdim. **144 proje arasından ilk 20.** (Özel depo.)
-- **Dijital Gebelik Takibi — TÜBİTAK 2209-A:** Ekip arkadaşımla gebelik takibini destekleyen mobil sağlık araştırma projesi.
+- **Dijital Gebelik Takibi — TÜBİTAK 2209-A:** Elif Altun ile birlikte gebelik takibini destekleyen mobil sağlık araştırma projesi.
 
 ### 💻 Seçili projeler
 | Proje | Çözdüğü problem | Teknolojiler | Durum |
@@ -60,8 +69,12 @@ Kocaeli Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim. Gerç
 - **POSCO ASSAN TST — Bilgi İşlem stajı:** QR tabanlı İSG bildirimi ve vardiya planlama süreçleri; C#, ASP.NET Web Forms, SQL Server, DevExpress.
 - **SET Yazılım — Yazılım stajı:** Kurumsal web ekranları ve SQL Server veri işlemleri.
 
+### 🤝 Topluluklar
+- **KOÜ Yazılım Kulübü:** Sponsorluk çalışmaları ve Base41 hackathon planlaması.
+- **DevFest Kocaeli 2025:** Tasarım ekibi ve konuşmacı asistanlığı.
+
 ### 🛠️ Teknolojiler
-**Kullandıklarım:** C#, .NET / ASP.NET Web Forms, SQL Server, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter, PostgreSQL, Supabase, Git.
+**Kullandıklarım:** C#, ASP.NET Web Forms, SQL Server, DevExpress, Python, Django REST, JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter, PostgreSQL, Supabase, Git.
 
 **Derinleştirdiklerim:** ASP.NET Core, Docker, backend mimarisi, uygulamalı makine öğrenmesi.
 
