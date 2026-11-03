@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410"><defs><pattern id="g" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#284478" stroke-width=".7" opacity=".35"/></pattern></defs><rect width="1200" height="410" fill="#030407"/><rect width="1200" height="410" fill="url(#g)"/><rect x="820" y="36" width="350" height="338" rx="24" fill="#0B132B" stroke="#1558C9" stroke-width="2"/><path d="M842 70H1148" stroke="#D4FF24" stroke-width="3"/><text x="846" y="110" fill="#D4FF24" font-size="17" font-family="monospace">&lt; hello, world! /&gt;</text><text x="846" y="160" fill="#9FB4D9" font-size="18" font-family="monospace">developer mode: ON</text><text x="846" y="207" fill="#7BA8FF" font-size="17" font-family="monospace">build · learn · repeat</text><text x="846" y="254" fill="#D4FF24" font-size="17" font-family="monospace">{ ideas → code }</text><path d="M846 299H1145" stroke="#284478"/><text x="846" y="334" fill="#9FB4D9" font-size="16" font-family="monospace">// coding in progress</text><rect x="55" y="36" width="8" height="8" fill="#D4FF24"/><text x="77" y="45" fill="#D4FF24" font-size="19" font-family="Arial,sans-serif" letter-spacing="5">ESMANUR / DEV</text><text x="55" y="161" fill="#FFFFFF" font-size="72" font-family="Georgia,serif">Esmanur</text><text x="55" y="241" fill="#FFFFFF" font-size="72" font-family="Georgia,serif" font-style="italic">Keleşoğlu<tspan fill="#D4FF24">.</tspan></text><path d="M55 265H720" stroke="#1558C9" stroke-width="3"/><text x="55" y="313" fill="#D4FF24" font-size="22" font-family="Arial,sans-serif" letter-spacing="2">BUILDING IDEAS INTO REAL SOFTWARE</text><text x="55" y="355" fill="#9FB4D9" font-size="18" font-family="Arial,sans-serif">BACKEND / DATA / AI-ASSISTED DEVELOPMENT</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#030407"/><stop offset="1" stop-color="#0b132b"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1558c9" opacity=".12"/></pattern></defs>
+<rect width="1200" height="400" fill="url(#bg)"/><rect width="1200" height="400" fill="url(#grid)"/>
+<text x="60" y="65" font-size="18" letter-spacing="5" fill="#d4ff24" font-family="Arial,sans-serif">HELLO, WORLD!  /  SOFTWARE ENGINEERING</text>
+<text x="58" y="166" font-size="77" fill="#f8fafc" font-family="Georgia,serif">Hey, I'm</text><text x="58" y="252" font-size="76" fill="#f8fafc" font-family="Georgia,serif">Esmanur Keleşoğlu<tspan fill="#d4ff24">.</tspan></text>
+<path d="M60 275H725" stroke="#d4ff24" stroke-width="5"/><text x="62" y="324" font-size="22" fill="#a7bbda" font-family="Arial,sans-serif">Backend  /  Data  /  AI-assisted development</text>
+<!-- pixel art desk vignette -->
+<rect x="800" y="40" width="360" height="324" rx="18" fill="#101c38" stroke="#1558c9" stroke-width="3"/>
+<rect x="821" y="65" width="320" height="222" fill="#142441"/>
+<rect x="1000" y="102" width="110" height="95" fill="#030407" stroke="#709eff" stroke-width="7"/><rect x="1013" y="117" width="84" height="65" fill="#1558c9"/>
+<path d="M1023 136h34m-34 15h54m-54 15h26" stroke="#d4ff24" stroke-width="4"/>
+<rect x="1046" y="197" width="18" height="24" fill="#7182a3"/><rect x="1020" y="218" width="70" height="8" fill="#7182a3"/>
+<rect x="822" y="266" width="315" height="15" fill="#43618b"/><rect x="850" y="281" width="17" height="61" fill="#30466b"/><rect x="1097" y="281" width="17" height="61" fill="#30466b"/>
+<!-- girl: brown ponytail, headphones, lime accents -->
+<rect x="897" y="108" width="44" height="22" fill="#513224"/><rect x="932" y="100" width="27" height="24" fill="#513224"/><rect x="952" y="111" width="17" height="17" fill="#68402b"/>
+<rect x="884" y="130" width="68" height="70" fill="#583627"/><rect x="895" y="139" width="51" height="51" fill="#e6a47c"/>
+<rect x="937" y="160" width="9" height="9" fill="#030407"/><rect x="886" y="140" width="10" height="50" fill="#1558c9"/><rect x="946" y="140" width="11" height="50" fill="#1558c9"/><rect x="888" y="132" width="65" height="9" fill="#d4ff24"/>
+<rect x="880" y="200" width="84" height="65" fill="#a22e48"/><rect x="896" y="206" width="50" height="13" fill="#cc435d"/>
+<rect x="952" y="221" width="50" height="18" fill="#e6a47c"/><rect x="980" y="237" width="35" height="11" fill="#e6a47c"/>
+<rect x="853" y="261" width="75" height="8" fill="#31486d"/><rect x="869" y="270" width="16" height="58" fill="#31486d"/>
+<rect x="984" y="250" width="58" height="7" fill="#a7bbda"/><rect x="1003" y="241" width="25" height="7" fill="#a7bbda"/>
+<rect x="826" y="78" width="10" height="10" fill="#d4ff24"/><rect x="843" y="78" width="10" height="10" fill="#1558c9"/>
+<text x="834" y="350" fill="#d4ff24" font-size="15" font-family="monospace">girl_dev.exe  // coding...</text>
+</svg>
