@@ -28,10 +28,9 @@ TS 825:2024 standardına göre, belirli bir bütçe içinde en uygun **yalıtım
 
 `Python` `FastAPI` `Gemini API` `Groq` `Vercel`
 
-<sub>Kaynak kodu özel depoda tutuluyor; talep üzerine demo yapılabilir.</sub>
 
 ### 🚀 Diğer çalışmalar
-- **TUSAŞ LIFT UP — Bitirme projesi (devam ediyor):** Ekip olarak satış sonrası ürünlerde konfigürasyon takibi ve yapay zekâ destekli arıza karar mekanizması geliştiriyoruz.
+- **TUSAŞ LIFT UP — Üniversite Bitirme projesi (devam ediyor):** Ekip olarak satış sonrası ürünlerde konfigürasyon takibi ve yapay zekâ destekli arıza karar mekanizması geliştiriyoruz.
 - **Dijital Gebelik Takibi — TÜBİTAK 2209-A:** Ekip olarak geliştirdiğimiz, gebe bireyler için çok fonksiyonlu mobil uygulama. Anne, partner, doktor ve yönetici rolleri; sağlık ve vital takibi, ortak takvim, topluluk forumu, gerçek zamanlı acil durum bildirimi ve canlı konum paylaşımı.<br>`Flutter` `TypeScript` `Express.js` `PostgreSQL` `Prisma` `Socket.io` `Redis`
 
 ### 💻 Seçili projeler
@@ -46,7 +45,9 @@ TS 825:2024 standardına göre, belirli bir bütçe içinde en uygun **yalıtım
 - **SET Yazılım — Yazılım stajı:** Kurumsal web ekranları ve SQL Server veri işlemleri.
 
 ### 🤝 Topluluklar
-- **KOÜ Yazılım Kulübü:** Sponsorluk çalışmaları ve Base41 hackathon planlaması.
+Şu an herhangi bir toplulukda gönüllü çalışmıyorum . 
+Daha önce:
+- **KOÜ Yazılım Kulübü:** Sponsorluk çalışmaları ve Base41 hackathon etkimlik planlaması.
 - **DevFest Kocaeli 2025:** Tasarım ekibi ve konuşmacı asistanlığı.
 
 ### 🛠️ Bildiğim teknolojiler
@@ -56,7 +57,7 @@ TS 825:2024 standardına göre, belirli bir bütçe içinde en uygun **yalıtım
 
 Ayrıca: SQL Server, ASP.NET Web Forms, DevExpress, MinIO.
 
-**Derinleştirdiğim alanlar:** Yapay zekâ uygulamaları, veri, backend mimarisi (ASP.NET Core, Docker) ve ürün yönetimi.
+**Kendimi Geliştirdiğim Alanlar:** Yapay zekâ uygulamaları, veri, backend mimarisi  ve ürün yönetimi.
 
 ---
 
